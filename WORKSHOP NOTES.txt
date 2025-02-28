@@ -1,0 +1,108 @@
+======
+** RAG WORKSHOP (GENERATIVE AI): 18th AUG @ 9AM
+======
+Instruction -->
+--
+1- I will speak with you or answer everybody question at the end 
+2- Workshop theroy & handson practicle 
+3- Duration of the workshop 2hr - 2:30hr
+4- OLD STUDENT JOINED THIS WORKSHOP YOU CAN WORK WITH ME
+5- ANY NEW STDUENT WHO JOINED FOR THE FIRST TIME & HE DONT KNOW ABOUT ME 
+6- NON TECHNICAL IF YOU NOT UNDERSTAND ADVANCE TOPIC 
+======
+
+1- MY INTRODUCTION 
+	https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+	
+2- WHAT IS RAG
+	RAG is used in LLM modle
+	llm model is part of the Generative ai 
+	generative ai is part of the datascience 
+	
+3- keep upgrading version (llm model keep upgrain on day on day basis)
+
+type of llm model & llm model version
+
+	chatgpt 3.0 2022 (train few text) 100 sent
+	chatgpt 3.5 2023 model trained 1000 sent 
+	chatgpt 3.5 turbo 2024 (train onb1000 sent 
+	chatgpt 40 2024
+---
+	gemini 2b parameter
+	genini 9b parameter
+---
+	llama3 8b 
+	llama3 70b
+	llama3 405B
+	
+4- why rag introduce and apply in llm model 
+	1st - llm model not upto data 
+	introduce to rag 
+
+5- you cannot load company document to the chatgpt 
+		credential information & security reason 
+			rag based would very helpfull
+		you can easily mention in your resume 
+
+6- math metics --10 chapter 
+	human intellignce - probabiliyt chapter base on index 
+	save time, accuracy information, right response , skip 1-9 chapter
+
+7- rag does -- upoad any document ( it will find generato content from the document)
+
+8- RAG ARCHITECUTE WE ARE COMPLETED 
+
+9- RAG PRACTICLE 
+	GOOGLE  - OPEN GOOGLE COLAB - NEW NOTEBOOK 
+	RENAME - RAG LLM
+	RUNTIME - CHANGE RUNTIME TO GPU
+	MOUNT DRIVE - gmail 
+ 
+10 - created a requirment.txt
+		chromadb==0.5.5
+langchain-chroma==0.1.2
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-text-splitters==0.2.2
+langchain-groq==0.1.6
+transformers==4.43.2
+sentence-transformers==3.0.1
+unstructured==0.15.0
+unstructured[pdf]==0.15.0
+
+11- if anyone work with me please work or else 
+	 i will live workshop you can do it later 
+
+12- generate your own groq api key -->
+		https://console.groq.com/keys
+13- we done the rag handon 
+	you any load pdf 
+		rag based llm groq, huggin -- give you the summarization
+
+14- rag model divide into 2 part 
+	simple rag model - text to text model 
+	multibased rag model --> image, video, audio ( working on it)
+	
+15- also I share all the file to you. 
+
+16 - what is chroma db -->
+---
+Chroma DB is an open-source vector store used 
+for storing and retrieving vector embeddings. 
+Its main use is to save embeddings along with metadata 
+to be used later by large language models.
+
+=============
+
+====== INSTA & YOUTUBE LINK ====
+RAG LLM PROMO --> youtube.com/watch?v=OLeBDK2KD68&t=3s
+RAG LIVE WORKSHOP --> youtube.com/watch?v=8nWjvn8ZKtU
+INSTAGRAM ==> instagram.com/p/C-uucfiSqY7/
+======requirment.txt 
+
+chroma db
+langchain framework
+llama 3 70b
+hugging face embedding 
+======
+
